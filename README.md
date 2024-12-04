@@ -46,18 +46,18 @@ Data mahasiswa disimpan dalam dictionary data_mahasiswa, di mana Nama adalah kun
 
 1. Start : Titik awal program
 2. Program akan menampilkan menu pilihan kepada pengguna:
-   Tambah data : Dengan memilih nomer 1
-   Tampilkan data : Dengan memilih nomer 2
-   Hapus data : Dengan memilih nomer 3
-   Ubah data : Dengan memilih nomer 4
-   Keluar : Dengan memilih nomer 5
-3 .Pengguna memilih opsi sesuai kebutuhan dengan memasukkan angka (1-5).
-4. Program akan menjalankan fungsi berdasarkan pilihan pengguna:
+   - Tambah data : Dengan memilih nomer 1
+   - Tampilkan data : Dengan memilih nomer 2
+   - Hapus data : Dengan memilih nomer 3
+   - Ubah data : Dengan memilih nomer 4
+   - Keluar : Dengan memilih nomer 5
+3. Pengguna memilih opsi sesuai kebutuhan dengan memasukkan angka (1-5).
+4. Program akan menjalankan fungsi berdasarkan pilihan pengguna
 5. Meminta input tambahan (jika diperlukan).
 6. Menampilkan hasil sesuai fungsi yang dipilih.
 7. Program akan terus berjalan hingga pengguna memilih opsi "Keluar".
 8. Jika pengguna memilih 5 (Keluar):
-9 Tampilkan pesan bahwa program selesai dan keluar dari loop.
+9. Tampilkan pesan bahwa program selesai dan keluar dari loop.
 10. End: Titik akhir program.
 
 ## Flowchart
